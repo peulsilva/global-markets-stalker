@@ -1,0 +1,12 @@
+.stock-search{
+    margin: 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+.stock-form{
+    display: flex;
+    flex-direction: column;
+}
